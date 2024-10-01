@@ -69,7 +69,7 @@ If you find our paper/repository helpful, please consider citing our works:
 @inproceedings{xie2022segmenting,
     title     = {Segmenting Moving Objects via an Object-Centric Layered Representation}, 
     author    = {Junyu Xie and Weidi Xie and Andrew Zisserman},
-    booktitle = {Advances in Neural Information Processing Systems},
+    booktitle = {NeurIPS},
     year      = {2022}
 }
 ```
