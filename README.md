@@ -58,10 +58,10 @@ where ```--save_pred``` saves the refined masks
 If you find our paper/repository helpful, please consider citing our works:
 ```
 @InProceedings{xie24appearrefine,
-  title={Appearance-Based Refinement for Object-Centric Motion Segmentation},  
-  author={Junyu Xie and Weidi Xie and Andrew Zisserman},  
-  booktitle={ECCV},  
-  year={2024}
+    title     = {Appearance-Based Refinement for Object-Centric Motion Segmentation},  
+    author    = {Junyu Xie and Weidi Xie and Andrew Zisserman},  
+    booktitle = {ECCV},  
+    year      = {2024}
 }
 ```
 
