@@ -22,7 +22,9 @@ ECCV, 2024
 ## The YouTubeVOS2018-motion Dataset
 * YouTubeVOS2018-motion (short for YTVOS18-m, where "m" is for motion) is a subset selected from *training split* of YTVOS2018. 
 * These selected sequences are used for *evaluation*, with predominantly moving objects involved (*i.e.,* objects can be discovered based on their motion).
-* The list of selected sequences can be found in ```resources/ytvos18m_seq.json```, and the video frames and ground truth annotations can be downloaded from [YouTubeVOS2018](https://youtube-vos.org/challenge/2018/).
+* The list of selected sequences can be found in ```resources/ytvos18m_seq.json```.
+* The raw video frames can be downloaded from [YouTubeVOS](https://youtube-vos.org/challenge/2019/).
+* The GT annotations are available [here](https://drive.google.com/file/d/1yFlNRB4qOrgC9uytNG1mpFNBUjRLYVta/view?usp=sharing).
   
 ## Pre-computed results and checkpoints
 * The masks after refinements can be found [here](https://drive.google.com/drive/folders/1LXhBzLUQODPd4GXBFc0USzZHO0UiSqhH?usp=sharing).
